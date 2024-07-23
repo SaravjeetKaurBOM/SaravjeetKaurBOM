@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaravjeetKaurBOM
-- 👀 I’m interested in learning python, jest, react and clean coding.
-- 🌱 I’m currently learning design system, react, python and clean coding.
+- 👀 I’m interested in learning python, jest, react, design system and clean coding.
+- 🌱 I’m currently learning design system.
 - 💞️ I’m looking to collaborate on any tech
 - 📫 How to reach me @saravjeetKaurBOM
 - 😄 Pronouns: She/Her
